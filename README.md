@@ -1,5 +1,5 @@
 # LinearModel Function
-The LinearModel function is a custom function written in R that performs linear regression analysis. It takes a response variable Y and one or more predictor variables Xk as inputs and returns a list of results related to the linear regression model.
+Developed a better linear model function written in R that performs linear regression analysis. It takes a response variable Y and one or more predictor variables Xk's as inputs and returns a list of results related to the linear regression model.
 
 ## Function Description
 The LinearModel function performs the following steps:
