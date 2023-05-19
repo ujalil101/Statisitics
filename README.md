@@ -1,5 +1,5 @@
 # LinearModel Function
-Developed a better linear model function written in R that performs linear regression analysis. It takes a response variable Y and one or more predictor variables Xk's as inputs and returns a list of results related to the linear regression model.
+For my stats class, developed a better linear model function written in R that performs linear regression analysis. It takes a response variable Y and one or more predictor variables Xk's as inputs and returns a list of results related to the linear regression model.
 
 ## Function Description
 The LinearModel function performs the following steps:
@@ -45,4 +45,6 @@ The LinearModel function returns a list named results containing the following e
 - "sebhat": The standard errors of the estimated coefficients
 - "r2": The coefficient of determination
 - "r2adj": The adjusted coefficient of determination
+
+
 
